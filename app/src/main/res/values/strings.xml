@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVMTan</string>
+    <string name="tanarret_error">Une erreur s\'est produite durant la récupération des arrêts</string>
+    <string name="retry">Réessayer</string>
+</resources>
